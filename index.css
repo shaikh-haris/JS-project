@@ -1,0 +1,30 @@
+.container{
+    text-align: center;
+    margin: auto;
+    width: 70%;
+}
+
+body{
+    background-color: rgba(155, 89, 209, 0.822);
+}
+
+h1{
+    font-family: Fantasy , cursive;
+    font-size: 6em;
+    color: snow;
+}
+
+img{
+    width: 80%;
+}
+
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+
+p{
+    font-family: 'indie flower',cursive;
+    font-size: 2rem;
+     color: #fff;
+}
